@@ -454,3 +454,8 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 API/appsettings.json
 .vscode
+API/reactivities copy.db-wal
+API/reactivities.db-shm
+.gitignore
+.gitignore
+API/reactivities.db-wal
